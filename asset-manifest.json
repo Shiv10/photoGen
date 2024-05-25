@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photoGen/static/css/main.a76c826b.css",
+    "main.js": "/photoGen/static/js/main.bd5a98fa.js",
+    "static/js/453.a6a97343.chunk.js": "/photoGen/static/js/453.a6a97343.chunk.js",
+    "static/media/logo.svg": "/photoGen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/photoGen/index.html",
+    "main.a76c826b.css.map": "/photoGen/static/css/main.a76c826b.css.map",
+    "main.bd5a98fa.js.map": "/photoGen/static/js/main.bd5a98fa.js.map",
+    "453.a6a97343.chunk.js.map": "/photoGen/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76c826b.css",
+    "static/js/main.bd5a98fa.js"
+  ]
+}
